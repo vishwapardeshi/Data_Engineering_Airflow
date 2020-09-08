@@ -1,6 +1,6 @@
 # Data Engineering using Airflow
 
-Airflow allows to turn any action related to data into repeatable, reliable and maintainable processes while adding scheduling, error handling, and reporting. 
+Airflow allows to turn any action related to data into repeatable, reliable and maintainable processes while adding scheduling, error handling, and reporting. It is a platform to programmaticaly author, schedule and monitor data pipelines.
 
 This repository will serve as an **Introduction to Airflow in Python**
 
@@ -12,6 +12,3 @@ The repository has 4 folders which cover the following topics. These folder impl
 2. Implementing Airflow DAG
 3. Maintaining and Monitoring Airflow Workflow
 4. Building Production Pipelines in Airflow
-
-
-
