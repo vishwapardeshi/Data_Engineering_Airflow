@@ -4,7 +4,7 @@ Airflow allows to turn any action related to data into repeatable, reliable and 
 
 This repository will serve as an **Introduction to Airflow in Python**
 
-## Outline
+### Outline
 
 The repository has 4 folders which cover the following topics. These folder implement data engineering workflows for production.
 
